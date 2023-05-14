@@ -730,7 +730,8 @@ Tags Page
   padding-bottom: 3rem;
 }
 .tag {
-  background: var(--grey-500);
+  /* background: var(--grey-500); */
+  background: rgb(192, 140, 42);
   border-radius: var(--borderRadius);
   text-align: center;
   color: var(--white);
